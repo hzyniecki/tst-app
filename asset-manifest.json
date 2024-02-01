@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tst-app/static/css/main.a19ecbfd.css",
+    "main.js": "/tst-app/static/js/main.5a250adb.js",
+    "index.html": "/tst-app/index.html",
+    "main.a19ecbfd.css.map": "/tst-app/static/css/main.a19ecbfd.css.map",
+    "main.5a250adb.js.map": "/tst-app/static/js/main.5a250adb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a19ecbfd.css",
+    "static/js/main.5a250adb.js"
+  ]
+}
